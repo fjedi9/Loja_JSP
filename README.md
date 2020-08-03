@@ -19,15 +19,15 @@ Atualmente o projeto tem as seguintes funcionalidades:
 9. Páginas html responsivas com o uso do Bootstrap.
 
 Para rodar a aplicação:
-1. Baixe o projeto via clone da URL https://github.com/armandossrecife/loja.git
+1. Baixe o projeto via clone da URL https://github.com/fjedi9/Loja_JSP.git
 2. Configure o projeto como MAVEN [5].
 3. Atualize as dependências via Maven Update Project.
 4. Configure o Container Java para rodar no Tom Cat [6].
 5. Crie um banco mysql [7] com nome bancoloja.
 6. Cadastre pelo menos um usuário na tabela de usuários.
-7. Faça as configurações necessárias na classe de Constantes (br.ufpi.loja.utilidades).
+7. Faça as configurações necessárias na classe de Constantes (br.vepilef.loja.utilidades).
 8. Faça as configurações web necessárias no pacote br.ufpi.loja.configuracoes.
-9. Atualize seu JDK para 1.8 
+9. Atualize seu JDK para 14 
 
 
 Referências:
@@ -47,4 +47,4 @@ Referências:
 [7] Mysql 5 - Sistema de Gerenciamento de Banco de Dados - https://dev.mysql.com/downloads/mysql/
 
 
-Dúvidas, sugestões ou críticas entre em contato via e-mail armando@ufpi.edu.br
+
